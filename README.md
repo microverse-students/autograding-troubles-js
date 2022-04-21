@@ -4,9 +4,9 @@ After accepting a GitHub Classroom assignment, you should get a link to your own
 
 If everything worked as it should you will see:
 - A directory called `.github`:
-    - ![github directory](./github_dir.png)
+    - ![github directory](./github_directory.png)
 - 3 commits with the  following messages:
-    - ![commits](./comming.png)
+    - ![commits](./commits.png)
 - A failing workflow on a list under the `Actions` tab in your repo:
      - ![actions tab](./actions.png)
 
