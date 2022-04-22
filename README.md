@@ -18,4 +18,6 @@ If anything from the above list is not true for your repo, you won't be able to 
 
 ### Solution
 
-To solve the described problem, just copy the `.github` directory from this repo into yours. You can see how it helps in [this video]()
+To solve the described problem, just copy the `.github` directory from this repo into yours. 
+
+You can see how it helps in [this video](https://www.loom.com/share/386623480f0a4d87959513b81bbbb5a7).
