@@ -4,7 +4,7 @@ After accepting a GitHub Classroom assignment, you should get a link to your own
 
 If everything worked as it should you will see:
 - A directory called `.github`:
-    - ![github directory](./github_dir.png)
+    - <img src="./github_dir.png" width="200">
 - 3 commits with the  following messages:
     - ![commits](./autograding_commits.png)
 - A failing workflow on a list under the `Actions` tab in your repo:
